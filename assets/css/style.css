@@ -1,5 +1,3 @@
-
-
 /*
 html{
     font-size: 62.5%;
@@ -8,45 +6,46 @@ html{
 
 /* navbar */
 
-.nav a{
-    font-size: 4rem;
+.nav a {
+  font-size: 4rem;
 }
 
-.affinsize{
-    height: 2rem;
-    width: 2rem;
-    margin: 0.4rem;
+.affinsize {
+  height: 2rem;
+  width: 2rem;
+  margin: 0.4rem;
 }
 
 /*footer styling*/
-.social-networks { 
-    text-align: center;
+.social-networks {
+  text-align: center;
 }
 
-.social-networks, li {   
-    display: inline;
+.social-networks,
+li {
+  display: inline;
 }
 
-.social-networks, i {
-    font-size: 32px;
-    margin: 1%;
-    padding: 1%;
-    color:#696666;
-    
+.social-networks,
+i {
+  font-size: 32px;
+  margin-left: 5%;
+  margin-right: 5%;
+  color: #696666;
+  margin-bottom: -0.2rem;
 }
 
-.ptext{
-    color:#696666;
-    text-align: center; 
-    font-family: 'karla', 'sans-serif' ;
-    font-size: 16px;
-    padding: 1px;
+.ptext {
+  color: #696666;
+  text-align: center;
+  font-family: "karla", "sans-serif";
+  font-size: 16px;
+  margin-bottom: 0;
 }
 
-.makerlink{
-    color:black;
-    text-align: center; 
-    font-family: 'karla', 'sans-serif' ;
-    font-size: 16px;
-
+.makerlink {
+  color: black;
+  text-align: center;
+  font-family: "karla", "sans-serif";
+  font-size: 16px;
 }
