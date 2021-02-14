@@ -16,6 +16,32 @@ html{
   margin: 0.4rem;
 }
 
+body {
+  margin-top: 15%;
+}
+
+/* Hero image */
+.heroimage {
+  height: 85vh;
+  background-image: url("chrissyraulmobile.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+/*button Position*/
+.buttonpos {
+  position: absolute;
+  top: 33%;
+  right: 15%;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+}
+
+/*contact us position and styling*/
+
+.modalstyling {
+  background-color: rgba(0, 0, 0, 0.5);
+}
 /*footer styling*/
 .social-networks {
   text-align: center;
@@ -28,9 +54,9 @@ li {
 
 .social-networks,
 i {
-  font-size: 32px;
-  margin-left: 5%;
-  margin-right: 5%;
+  font-size: 24px;
+  margin-left: 10%;
+  margin-right: 10%;
   color: #696666;
   margin-bottom: -0.2rem;
 }

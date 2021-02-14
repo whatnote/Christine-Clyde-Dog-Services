@@ -20,10 +20,14 @@
   </head>
   <body>
     <div class="containter">
+      <!-- Nav Bar-->
       <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand" href="#"
-          ><img class="affinsize" src="assets\images\affin.jpg" />Christine
-          Clyde Dog Services</a
+          ><img
+            class="affinsize"
+            src="assets/images/affin.jpg"
+            alt="affinpinser"
+          />Christine Clyde Dog Services</a
         >
         <button
           class="navbar-toggler"
@@ -56,12 +60,22 @@
         </div>
       </nav>
 
-      <article id="home">
-        <div class="container-fluid">
-          <div class="heroimage"></div>
+      <!-- hero image-->
+      <section id="home">
+        <div class="heroimage">
+          <div>
+            <button
+              class="btn btn-success btn-lg buttonpos"
+              data-toggle="modal"
+              data-target="#contactus"
+            >
+              Contact Me
+            </button>
+          </div>
         </div>
-      </article>
+      </section>
 
+      <!-- social meadia footer-->
       <footer class="container-fluid fixed-bottom bg-light">
         <div class="row">
           <ul class="social-networks col">
@@ -96,6 +110,62 @@
           </p>
         </div>
       </footer>
+    </div>
+
+    <div class="modal modalstyling" tabindex="-1" id="contactus">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Contact Me</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <div class="mb-3">
+              <label for="name" class="form-label">Name</label>
+              <input
+                type="text"
+                class="form-control"
+                id="name"
+                placeholder="Jane Smith"
+              />
+            </div>
+            <div class="mb-3">
+              <label for="email" class="form-label">Email address</label>
+              <input
+                type="email"
+                class="form-control"
+                id="email"
+                placeholder="name@example.com"
+              />
+            </div>
+            <div class="mb-3">
+              <label for="number" class="form-label">Phone Number</label>
+              <input
+                type="text"
+                class="form-control"
+                id="number"
+                placeholder="07734 123 156"
+              />
+            </div>
+            <div class="mb-3">
+              <label for="exampleFormControlTextarea1" class="form-label"
+                >Message</label
+              >
+              <textarea
+                class="form-control"
+                id="exampleFormControlTextarea1"
+                rows="3"
+              ></textarea>
+              <button type="submit" class="btn btn-success">Submit</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <script
