@@ -1,12 +1,14 @@
+html {
+  font-size: 10px;
+}
+
 body {
   margin-top: 5%;
-  font-size: 62.5%;
 }
 
 /* navbar */
 
-.nav,
-a {
+nav a {
   font-size: 1rem;
 }
 
@@ -74,7 +76,7 @@ i {
 
 @media (min-width: 500px) {
   html {
-    font-size: 125%;
+    font-size: 24px;
   }
 
   .heroimage {
@@ -85,6 +87,24 @@ i {
   }
 
   body {
-    margin-top: 3%;
+    margin-top: 4rem;
+  }
+
+  .social-networks,
+  i {
+    font-size: 1rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: #696666;
+    margin-top: 0.3rem;
+    margin-bottom: 0rem;
+  }
+
+  .buttonpos {
+    position: absolute;
+    top: 33%;
+    right: 35%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
   }
 }
