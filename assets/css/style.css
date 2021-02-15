@@ -28,9 +28,10 @@ nav a {
 
 /*button Position*/
 .buttonpos {
+  font-size: 1.5rem;
   position: absolute;
   top: 33%;
-  right: 10%;
+  right: 15%;
   background-color: rgba(0, 0, 0, 0.5);
   border: none;
 }
