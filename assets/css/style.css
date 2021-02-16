@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Yantramanav:wght@100;300;400;500;700;900&display=swap");
+
 html {
   font-size: 10px;
 }
@@ -8,12 +10,10 @@ body {
 
 /* navbar */
 
-.headingsize {
-  font-size: 10rem;
-}
-
 nav a {
   font-size: 1.5rem;
+  font-family: "Yantramanav", sans-serif;
+  color: #696666;
 }
 
 .affinsize {
@@ -81,7 +81,7 @@ i {
 
 @media (min-width: 500px) {
   html {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   .heroimage {
@@ -93,16 +93,6 @@ i {
 
   body {
     margin-top: 4rem;
-  }
-
-  .social-networks,
-  i {
-    font-size: 1rem;
-    margin-left: 10%;
-    margin-right: 10%;
-    color: #696666;
-    margin-top: 0.3rem;
-    margin-bottom: 0rem;
   }
 
   .buttonpos {
