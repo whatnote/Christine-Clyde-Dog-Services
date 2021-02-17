@@ -36,14 +36,19 @@ nav a {
 
 /* card styling*/
 .card {
-  margin-top: 10%;
+  margin: 10%;
+}
+
+.card p {
+  text-align: center;
 }
 
 h5 {
-  padding: 0.5rem;
-  font-size: 2rem;
+  padding: 2rem;
+  font-size: 2.5rem;
   font-family: "Yantramanav", sans-serif;
   color: #696666;
+  text-align: center;
 }
 
 /* Hero image */
@@ -68,6 +73,17 @@ h5 {
 .modalstyling {
   background-color: rgba(0, 0, 0, 0.5);
 }
+
+/* About styling */
+#about,
+p {
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.5rem;
+  font-family: "Yantramanav", sans-serif;
+  color: #696666;
+}
+
 /*footer styling*/
 .social-networks {
   text-align: center;
