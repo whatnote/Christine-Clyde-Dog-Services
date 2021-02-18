@@ -84,6 +84,11 @@ p {
   color: #696666;
 }
 
+/*services styling*/
+.servicessize {
+  padding: 25%;
+}
+
 /*footer styling*/
 .social-networks {
   text-align: center;
