@@ -89,6 +89,11 @@ p {
   padding: 25%;
 }
 
+/* review styling */
+#reviews img {
+  border-radius: 25px;
+}
+
 /*footer styling*/
 .social-networks {
   text-align: center;
