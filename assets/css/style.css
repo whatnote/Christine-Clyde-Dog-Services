@@ -94,6 +94,9 @@ p {
   border-radius: 25px;
 }
 
+#reviews .card {
+  border: 0px;
+}
 /*footer styling*/
 .social-networks {
   text-align: center;
