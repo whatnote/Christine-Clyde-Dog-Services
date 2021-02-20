@@ -130,30 +130,3 @@ i {
   font-family: "karla", "sans-serif";
   font-size: 1.5rem;
 }
-
-/*
-@media (min-width: 500px) {
-  html {
-    font-size: 16px;
-  }
-
-  .heroimage {
-    height: 85vh;
-    background-image: url("chrissyraulwide.jpg");
-    background-position: center;
-    background-size: cover;
-  }
-
-  body {
-    margin-top: 4rem;
-  }
-
-  .buttonpos {
-    position: absolute;
-    top: 33%;
-    right: 35%;
-    background-color: rgba(0, 0, 0, 0.5);
-    border: none;
-  }
-}
-*/
