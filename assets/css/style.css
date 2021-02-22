@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Yantramanav:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Yantramanav:wght@100;300;400;500;700;900&display=swap");
 
 html {
   font-size: 10px;
@@ -44,8 +44,16 @@ nav a {
 }
 
 h5 {
-  padding: 2rem;
+  margin-top: 2rem;
   font-size: 2.5rem;
+  font-family: "Yantramanav", sans-serif;
+  color: #696666;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: 3rem;
   font-family: "Yantramanav", sans-serif;
   color: #696666;
   text-align: center;
@@ -108,6 +116,28 @@ h4,
   border: 0px;
 }
 
+/*services animation*/
+
+.upoverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  overflow: hidden;
+  width: 100%;
+  height: 20%;
+  transition: 0.5s ease;
+}
+
+.upcontainer:hover .upoverlay {
+  height: 100%;
+}
+
+.sermargin {
+  padding-bottom: 40px;
+}
+
 /* text stlying for review cards*/
 
 .cardcontainer {
@@ -131,6 +161,8 @@ h4,
 }
 
 .cardcenteredtext h5 {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 2.5rem;
   color: #2b2b2b;
 }
 
@@ -141,8 +173,8 @@ h4,
 }
 
 .cardcenteredtext p {
-  font-family: "Yantramanav", sans-serif;
-  font-size: 2rem;
+  font-family: "roboto", sans-serif;
+  font-size: 1.5rem;
   color: #2b2b2b;
   transition: color 0.5s;
 }
