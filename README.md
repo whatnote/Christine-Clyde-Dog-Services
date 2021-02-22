@@ -2,7 +2,7 @@
 
 ## Christine Clyde Dog Walking
 
-![am i responsive image](assets\images\Multidevicespic.png)
+![am i responsive image](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Multidevicespic.png)
 
 [Link to live project](https://github.com/whatnote/MileStoneOneDogServices)
 
@@ -68,10 +68,10 @@ Once the new new normal is establish, the new online presence should prove a vit
 ## Wireframes
 
 Mobile <br>
-![Classes Page Wireframe](assets\images\wireframes\Mobile.png)<br>
+![Classes Page Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Mobile.png)<br>
 
 Destop Page<br>
-![Home Page Wireframe](assets\images\wireframes\Desktop.png)<br>
+![Home Page Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Desktop.png)<br>
 
 # Technologies Used
 
