@@ -131,8 +131,13 @@ h4,
   text-align: center;
 }
 
-.contactdet {
+.contactdet,
+.openinghours {
   margin: 1rem;
+}
+
+.mapnoborder {
+  border: none;
 }
 
 /*services styling*/
