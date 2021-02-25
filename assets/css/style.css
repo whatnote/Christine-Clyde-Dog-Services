@@ -8,9 +8,7 @@ body {
   margin-top: 5rem;
   margin-bottom: 6rem;
 }
-.abouttext h2 {
-  margin-top: 5rem;
-}
+
 /* navbar */
 .navbar-brand {
   font-size: 2.2rem;
@@ -105,7 +103,7 @@ p {
   color: #2b2b2b;
 }
 .abouttext {
-  font-size: 1rem;
+  font-size: 1.8rem;
 }
 
 /*about animation*/
@@ -127,7 +125,7 @@ p {
 }
 
 .sermargina {
-  margin-top: 20%;
+  margin-top: 10%;
   margin-left: 10%;
   margin-right: 10%;
   font-size: 2rem;
@@ -146,7 +144,7 @@ td {
 }
 
 .dogprices {
-  ext-align: center;
+  text-align: center;
 }
 
 .contactdet,
@@ -156,12 +154,22 @@ td {
 }
 
 .mapnoborder {
-  border: none;
+  border: 0px;
 }
 
 /*services styling*/
 .servicessize {
   padding: 25%;
+}
+
+h4 {
+  padding-left: 5%;
+  padding-right: 5%;
+
+  margin-bottom: 5vh;
+  font-size: 2rem;
+  font-family: "Yantramanav", sans-serif;
+  color: #2b2b2b;
 }
 
 /* review styling */
@@ -189,10 +197,6 @@ td {
 
 .upcontainer:hover .upoverlay {
   height: 100%;
-}
-
-.sermargin {
-  margin-top: -5.5%;
 }
 
 /* text stlying for review cards*/
