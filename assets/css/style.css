@@ -148,6 +148,8 @@ td {
 
 .dogprices {
   width: 90%;
+  margin-top: -2rem;
+  margin-bottom: -1rem;
 }
 
 .contactdet,
@@ -163,6 +165,10 @@ td {
 /*services styling*/
 .servicessize {
   padding: 25%;
+}
+
+.cardheight {
+  height: 400px;
 }
 
 h4 {
