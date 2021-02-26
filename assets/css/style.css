@@ -67,7 +67,7 @@ h2 {
   background-size: cover;
 }
 
-/*button Position*/
+/*call to action button Position*/
 .buttonpos {
   font-size: 1.5rem;
   position: absolute;
@@ -88,6 +88,11 @@ h2 {
 
 .buttonposem {
   top: 57%;
+}
+
+.buttonpos,
+a {
+  color: white;
 }
 
 /*contact us button position and styling*/
