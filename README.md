@@ -63,7 +63,7 @@ Once the new new normal is establish, the new online presence should prove a vit
 
 ## Typography
 
-- I opted to use Yantramanav font for the Title, nav bar and headings, I augmented the paragraph text with, as it works well on mobile screens.
+- I opted to use Yantramanav font for the Title, nav bar and headings, I augmented the paragraph text with, roboto as it is still very readable at small size, ideal for mobile screens.
 
 ## Wireframes
 
@@ -105,11 +105,14 @@ Destop Page<br>
 
 ## Media
 
-- Images are my own.
-- documents used are either the geniun article of dummy versions if the orginal container too much infoamtion. Eg the Puiblic Liability policy doesn't provide a PL certificate in teh same way an Employer;s Liability policy does. The PL schedule details everything, including the premium paid and staff discount obtained. So I made the decision to provide the needed infomation.
+- Most of the images of the dogs are my own apart from Remy the dog, that was taken by [icephotography](https://www.icephotography.co.uk/)
+
+- the silluettes of the dogs are free to use pics from
+
+- documents used are either the geniun article of dummy versions if the orginal contains too much infoamtion. Eg the Puiblic Liability policy doesn't provide a PL certificate in the same way an Employer;s Liability policy does. The PL schedule details everything, including the premium paid and staff discount obtained. So I made the decision to provide a dummy certificate.
 
 ## Acknowledgements
 
 - I'd like to thank my mentor Spencer Barriball for his patience and guidance throughout my project.
 
-- I'd also like to think my Partner Chrissy for putting up with the long nights infont of a computer
+- I'd also like to think my Partner Chrissy for putting up with the long nights infont of the computer.
