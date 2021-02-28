@@ -122,7 +122,11 @@ The next test I ran on the delpoyed site, once loaded in google chrome I looked 
 
 [Lighthouse not incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest1.jpg)<br>
 
-[Lighthouse not incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest2.jpg)<br>
+[Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest2.jpg)<br>
+
+This noted best pratactice was low. I'd noted There was an error on the console.log, the small snippit of javascript I'd loaded wasn't working like it should, I belevied it was necessary for the modal to animate when loading, I decided to comment out the JS code an rund the test again, this produced a much better result and the modal still animated in it's loading.
+
+[Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest3.jpg)
 
 # Credits
 
