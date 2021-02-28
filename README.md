@@ -68,10 +68,10 @@ Once the new new normal is establish, the new online presence should prove a vit
 ## Wireframes
 
 Mobile <br>
-![Classes Page Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Mobile.png)<br>
+![Mobile Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Mobile.png)<br>
 
 Destop Page<br>
-![Home Page Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Desktop.png)<br>
+![Desktop Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Desktop.png)<br>
 
 # Technologies Used
 
@@ -85,8 +85,44 @@ Destop Page<br>
 - [GitHub](https://github.com/) - GithHub is the hosting site used to store the source code.
 - [Gitpod](https://www.gitpod.io/) - Development environment where the site was built.
 - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) -
-- [W3C HTML validator](https://validator.w3.org/) - Used to validate code.
-- [W3C CSS validator](https://jigsaw.w3.org/css-validator/) - Used to validate code.
+- [W3C HTML validator](https://validator.w3.org/) - Used to test the html code.
+- [W3C CSS validator](https://jigsaw.w3.org/css-validator/) - Used to test the CSS code.
+
+# Testing
+
+## Code Testing
+
+### HTML Testing
+
+I began testing my html, using [W3C HTML validator](https://validator.w3.org/), the initial test noted 26 errors.
+
+[HTML Testing 26 error](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
+
+The most nurourous error was \ being used instead or // for the img src links, this is note worth as I was pulling the relative file path via the right click from github ide. So worth noting this is not the necessary the best way to do this.
+
+Another erro were styling items on the google iframe element, I moved these to the CSS file and that fixed those erros.
+
+The last two errors were:
+
+[The last two errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmllasttwoerrors.jpg)<br>
+
+The lst two errors to resovle was having and a tag and a child of the button class, I'd sturggled to find a solution wanting to have a button to ring a numner or send an email, and when I experiemented with the a element in the button element, and it worked I was very pleased, but just becase it works doesn't mean its a good idea.
+
+### CSS Testing
+
+The next batch of tests was on the CSS, using [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
+
+Usefully no errors were found.
+
+[CSS Test No errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
+
+### Google Lighthouse
+
+The next test I ran on the delpoyed site, once loaded in google chrome I looked to lighthouse to run its battery of tests. inital testing was a flop, fortunatley I was advised to rerujn the tests in incognito mode, so now chrome extensions slow the testing down. This improved things greatly, but still not all was in the top 90.
+
+[Lighthouse not incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest1.jpg)<br>
+
+[Lighthouse not incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest2.jpg)<br>
 
 # Credits
 
@@ -94,9 +130,8 @@ Destop Page<br>
 
 - [Bootstrap Nav Bar with Links](https://getbootstrap.com/docs/4.5/components/navbar/).
 
-- [Bootstrap Carousel with controls](https://getbootstrap.com/docs/4.5/components/carousel/). Bootstrap carousel used with some modifications.
-
 - W3 Schools [How To Place Images Side by Side](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp).
+
 - Bootstrap Grid System [Grid system](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 ## Content
