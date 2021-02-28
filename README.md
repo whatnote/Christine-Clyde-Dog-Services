@@ -2,9 +2,9 @@
 
 ## Christine Clyde Dog Walking
 
-![am i responsive image](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Multidevicespic.png)
+![responsive image](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Multidevicespic.png)
 
-[Link to live project](https://github.com/whatnote/MileStoneOneDogServices)
+[link to live project](https://github.com/whatnote/MileStoneOneDogServices)
 
 ## Project Summary
 
@@ -96,7 +96,7 @@ Destop Page<br>
 
 I began testing my html, using [W3C HTML validator](https://validator.w3.org/), the initial test noted 26 errors.
 
-[HTML Testing 26 error](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
+![HTML Testing 26 error](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
 
 The most nurourous error was \ being used instead or // for the img src links, this is note worth as I was pulling the relative file path via the right click from github ide. So worth noting this is not the necessary the best way to do this.
 
@@ -104,7 +104,7 @@ Another erro were styling items on the google iframe element, I moved these to t
 
 The last two errors were:
 
-[The last two errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmllasttwoerrors.jpg)<br>
+![The last two errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmllasttwoerrors.jpg)<br>
 
 The lst two errors to resovle was having and a tag and a child of the button class, I'd sturggled to find a solution wanting to have a button to ring a numner or send an email, and when I experiemented with the a element in the button element, and it worked I was very pleased, but just becase it works doesn't mean its a good idea.
 
@@ -114,19 +114,19 @@ The next batch of tests was on the CSS, using [W3C CSS validator](https://jigsaw
 
 Usefully no errors were found.
 
-[CSS Test No errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
+![CSS Test No errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
 
 ### Google Lighthouse
 
 The next test I ran on the delpoyed site, once loaded in google chrome I looked to lighthouse to run its battery of tests. inital testing was a flop, fortunatley I was advised to rerujn the tests in incognito mode, so now chrome extensions slow the testing down. This improved things greatly, but still not all was in the top 90.
 
-[Lighthouse not incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest1.jpg)<br>
+![Lighthouse not incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest1.jpg)<br>
 
-[Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest2.jpg)<br>
+![Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest2.jpg)<br>
 
 This noted best pratactice was low. I'd noted There was an error on the console.log, the small snippit of javascript I'd loaded wasn't working like it should, I belevied it was necessary for the modal to animate when loading, I decided to comment out the JS code an rund the test again, this produced a much better result and the modal still animated in it's loading.
 
-[Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest3.jpg)
+![Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest3.jpg)
 
 # Credits
 
