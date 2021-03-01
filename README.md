@@ -8,11 +8,11 @@
 
 ## Project Summary
 
-This project is my Milestone 1 coupled with a new site for my Partner's dog walking business. Due to covid-19, the world has changed; home working has meant the need for dog walking isn't what it once was, but their has been a steep increase in people and families getting dogs, espcailly puppies.
+This project is my Milestone 1 I’ve decided to couple it with a new site for my Partner's dog walking business. Due to covid-19, the world has changed; home working has meant the need for dog walking isn't what it once was, but there has been a steep increase in people and families getting dogs; especially puppies.
 
-With this my partner, Chrissy, has taken to oportunity to retrain and up-skill her dog walking business and extend it to include puppy and dog training. Chrissy has completed one diploma, and to is now well underway in her dog behavoural diploma.
+With this my partner, Chrissy, has taken to opportunity to retrain and up-skill her dog walking business and extend it to include puppy and dog training. Chrissy has completed one diploma, and to is now well underway in her dog behavioural diploma.
 
-Once the new new normal is establish, the new online presence should prove a vital tool in finding new clients.
+Once the new normal is establish, the new online presence should prove a vital tool in finding new clients.
 
 ## Contents
 
@@ -43,17 +43,17 @@ Once the new new normal is establish, the new online presence should prove a vit
 
 ## User Stories
 
-- Will want to be able to see the services avaialble.
+- Will want to be able to see the services available.
 - See opening times.
 - See costs for walks and dog training.
 - See current client reviews.
-- See infomation about insurance.
-- See infomation about quailifications.
-- See infoamiton about dog walking licenece
-- see infomation about DBS check
+- See information about insurance.
+- See information about qualifications.
+- See information about dog walking licence
+- See information about DBS check
 - have a contact us form
 - have a an email option
-- have a mobile numnber displayed.
+- have a mobile number displayed.
 
 ## Design
 
@@ -72,6 +72,8 @@ Mobile <br>
 
 Destop Page<br>
 ![Desktop Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Desktop.png)<br>
+
+# Features
 
 # Technologies Used
 
@@ -98,15 +100,15 @@ I began testing my html, using [W3C HTML validator](https://validator.w3.org/), 
 
 ![HTML Testing 26 error](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
 
-The most nurourous error was \ being used instead or // for the img src links, this is note worth as I was pulling the relative file path via the right click from github ide. So worth noting this is not the necessary the best way to do this.
+The most numerous error was \ being used instead or // for the img src links, this is note worth as I was pulling the relative file path via the right click from github ide. So worth noting this is not the necessary the best way to do this.
 
-Another erro were styling items on the google iframe element, I moved these to the CSS file and that fixed those erros.
+Another error were styling items on the google iframe element, I moved these to the CSS file and that fixed those errors.
 
 The last two errors were:
 
 ![The last two errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmllasttwoerrors.jpg)<br>
 
-The lst two errors to resovle was having and a tag and a child of the button class, I'd sturggled to find a solution wanting to have a button to ring a numner or send an email, and when I experiemented with the a element in the button element, and it worked I was very pleased, but just becase it works doesn't mean its a good idea.
+The last two errors to resolve was having and a tag and a child of the button class, I struggled to find a solution wanting to have a button to ring a number or send an email, and when I experimented with the a element in the button element, and it worked I was very pleased, but just because it works doesn't mean it’s a good idea.
 
 ### CSS Testing
 
@@ -114,19 +116,21 @@ The next batch of tests was on the CSS, using [W3C CSS validator](https://jigsaw
 
 Usefully no errors were found.
 
-![CSS Test No errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
+![CSS Test No errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/cssvalidatormperrors.jpg)<br>
 
 ### Google Lighthouse
 
-The next test I ran on the delpoyed site, once loaded in google chrome I looked to lighthouse to run its battery of tests. inital testing was a flop, fortunatley I was advised to rerujn the tests in incognito mode, so now chrome extensions slow the testing down. This improved things greatly, but still not all was in the top 90.
+The next test I ran on the deployed site, once loaded in google chrome I looked to lighthouse to run its battery of tests. initial testing was a flop, fortunately I was advised to rerun the tests in incognito mode, so now chrome extensions slow the testing down. This improved things greatly, but still not all was in the top 90.
 
 ![Lighthouse not incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest1.jpg)<br>
 
 ![Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest2.jpg)<br>
 
-This noted best pratactice was low. I'd noted There was an error on the console.log, the small snippit of javascript I'd loaded wasn't working like it should, I belevied it was necessary for the modal to animate when loading, I decided to comment out the JS code an rund the test again, this produced a much better result and the modal still animated in it's loading.
+This noted best practice was low. I'd noted There was an error on the console.log, the small snippet of JavaScript I'd loaded wasn't working like it should, I believed it was necessary for the modal to animate when loading, I decided to comment out the JS code and run the test again, this produced a much better result and the modal still animated in its loading.
 
 ![Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest3.jpg)
+
+This is still not a as good as it could be, and if I get the time I'd look to make the photos of the dogs smaller to further improve the test scores.
 
 # Credits
 

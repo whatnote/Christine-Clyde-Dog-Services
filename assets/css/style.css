@@ -2,11 +2,16 @@
 
 html {
   font-size: 10px;
+  scroll-behavior: smooth;
 }
 
 body {
   margin-top: 5rem;
   margin-bottom: 6rem;
+}
+
+h2 {
+  padding-top: 5.5rem;
 }
 
 /* navbar */
