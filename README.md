@@ -185,9 +185,9 @@ A clone of the project will be created locally on your machine.
 
 - [Bootstrap Nav Bar with Links](https://getbootstrap.com/docs/4.5/components/navbar/).
 
-- W3 Schools [How To Place Images Side by Side](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp).
-
 - Bootstrap Grid System [Grid system](https://getbootstrap.com/docs/4.0/layout/grid/)
+
+- The slid effect used in both About and Services sections was adapted from this card slide effect. [Card Slide](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_slidebottom)
 
 ## Content
 
