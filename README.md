@@ -80,9 +80,17 @@ Destop Page<br>
 - Navigation menu is fixed so always remains ontop for easy navigation.
 - Footer is also fixed meaning the contact is sandwhiched between the nav bar and header.
 - Three call to actions, the use can call, email or fill out the contact us form from buttons on the hero image.
--
+- About section: contains responsive element, both cert and liability policy disple more info when you hover on them.
+- Contact section: has a number and email that will call email when clicked on. Map is an Iframe of location of business.
+- Services section: again if you click on the "service" eg Dog Walks, text will scroll up displaying more info about the service.
+- Reviews section: Each review is a picture of the dog, when you hover on the picture of the dog, the review text appears.
 
 ## Features left to Implement
+
+-dog walking licence
+-dbs section
+
+both to be added to the about section.
 
 # Technologies Used
 
