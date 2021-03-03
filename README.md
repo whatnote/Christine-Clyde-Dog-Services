@@ -19,7 +19,7 @@ Once the new normal is establish, the new online presence should prove a vital t
 - [User Experience Design](#User-Experience-Design)
   - [User Stories](#User-Stories)
   - [Structure](#Structure)
-  - [Design](#Design)
+  - [UX](#UX)
     - [Colour Scheme](#Colour-Scheme)
     - [Typography](#Typography)
     - [Wireframes](#Wireframes)
@@ -74,6 +74,15 @@ Destop Page<br>
 ![Desktop Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Desktop.png)<br>
 
 # Features
+
+## Existing Features
+
+- Navigation menu is fixed so always remains ontop for easy navigation.
+- Footer is also fixed meaning the contact is sandwhiched between the nav bar and header.
+- Three call to actions, the use can call, email or fill out the contact us form from buttons on the hero image.
+-
+
+## Features left to Implement
 
 # Technologies Used
 
@@ -131,6 +140,36 @@ This noted best practice was low. I'd noted There was an error on the console.lo
 ![Lighthouse in incognito](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/lighthousetest3.jpg)
 
 This is still not a as good as it could be, and if I get the time I'd look to make the photos of the dogs smaller to further improve the test scores.
+
+# Deployment
+
+## Deployment via Github
+
+Navigate to the GitHub [Repository](https://github.com/whatnote/MileStoneOneDogServices)
+
+Go to settings
+
+Scroll down to Git Hub Pages section
+
+Select 'Master Branch' as the source.
+
+Click Save
+
+Click on the link to go to the live deployed page.
+
+## To run Locally
+
+Navigate to the GitHub [Repository](https://github.com/whatnote/MileStoneOneDogServices)
+
+Click the Code drop down menu.
+
+Click the clipboard icon to copy the url provided
+
+Open your developement editor of choice and open a terminal window in a directory of your choice.
+
+Use "git clone" and paste the copied url after it.
+
+A clone of the project will be created locally on your machine.
 
 # Credits
 
