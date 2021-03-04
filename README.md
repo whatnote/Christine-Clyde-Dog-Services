@@ -131,6 +131,10 @@ The last two errors were:
 
 The last two errors to resolve was having and a tag and a child of the button class, I struggled to find a solution wanting to have a button to ring a number or send an email, and when I experimented with the a element in the button element, and it worked I was very pleased, but just because it works doesn't mean it’s a good idea.
 
+The Fix was very esay, when I worked it out, simply keep the styling from the button add the class to the a element, delete the button element. No Errors show.
+
+![The last two errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmlnoerrors.jpg)<br>
+
 ### CSS Testing
 
 The next batch of tests was on the CSS, using [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
