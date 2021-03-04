@@ -59,11 +59,11 @@ Once the new normal is establish, the new online presence should prove a vital t
 
 ### Colour Scheme
 
-- I opted for a simple black and white, the picture of the dogs would add the needed colour.
+- I opted for a black and white, the picture of the dogs would add the needed colour. THe Black was not pure black, but a very dark gray, a pure black can be too harsh.
 
 ## Typography
 
-- I opted to use Yantramanav font for the Title, nav bar and headings, I augmented the paragraph text with, roboto as it is still very readable at small size, ideal for mobile screens.
+- I opted to use Yantramanav font for the Title, nav bar and headings, I augmented the paragraph text with roboto, as it is still very readable at small size, ideal for mobile screens.
 
 ## Wireframes
 
@@ -72,6 +72,11 @@ Mobile <br>
 
 Destop Page<br>
 ![Desktop Wireframe](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/wireframes/Desktop.png)<br>
+
+## Differences from the Wireframe.
+
+- Serivces :
+  The serivces were initially noted as Dog Walks, Doggy Day care and Dog Boarding. But As these services naturally flow from Dog walking the daycare and boarding were dropped, and instead the decision was made to showcase the Training options; Dog Trains and Puppy Training.
 
 # Features
 
@@ -103,7 +108,7 @@ both to be added to the about section.
 - [Git](https://git-scm.com/) - Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
 - [GitHub](https://github.com/) - GithHub is the hosting site used to store the source code.
 - [Gitpod](https://www.gitpod.io/) - Development environment where the site was built.
-- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) -
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) - Using inspect and also Lighthouse to test the site.
 - [W3C HTML validator](https://validator.w3.org/) - Used to test the html code.
 - [W3C CSS validator](https://jigsaw.w3.org/css-validator/) - Used to test the CSS code.
 
