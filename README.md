@@ -18,7 +18,6 @@ Once the new normal is establish, the new online presence should prove a vital t
 
 - [User Experience Design](#User-Experience-Design)
   - [User Stories](#User-Stories)
-  - [Structure](#Structure)
   - [UX](#UX)
     - [Colour Scheme](#Colour-Scheme)
     - [Typography](#Typography)
@@ -92,8 +91,8 @@ Destop Page<br>
 
 ## Features left to Implement
 
--dog walking licence
--dbs section
+- dog walking licence
+- dbs section
 
 both to be added to the about section.
 
