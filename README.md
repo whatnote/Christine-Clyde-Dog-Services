@@ -157,6 +157,26 @@ This noted best practice was low. I'd noted There was an error on the console.lo
 
 This is still not a as good as it could be, and if I get the time I'd look to make the photos of the dogs smaller to further improve the test scores.
 
+### Website Testing
+
+#### Nav Bar Links
+
+The site is just one page, there are no links to other pages in the navigation bar, but the navbar will move the user to the labelled sections. The below is confirmation those links work as they should do.
+
+![Navbar Links](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/navbarlink.jpg)
+
+#### Footer Links
+
+The footer links do take you away from the site, they also work as they should.
+![Footer Links](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/footerlink.jpg)
+
+#### Text scroll Animations
+
+The scroll text animations need to work to ensure the extra infomation will appaer the below confrim they do.
+![Text Scroll Animations](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/textscrolls.jpg)
+
+### Mobile First and Media Queries
+
 # Deployment
 
 ## Deployment via Github
