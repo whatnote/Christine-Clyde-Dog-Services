@@ -339,7 +339,8 @@ i {
   }
 }
 
-@media screen and (min-width: 1100px) {
+/*laptop or bigger*/
+@media screen and (min-width: 1600px) {
   .heroimage {
     height: 80vh;
     background-image: url("../images/chrissyraulwide.jpg");
