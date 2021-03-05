@@ -340,10 +340,28 @@ i {
 }
 
 @media screen and (min-width: 1100px) {
+  .heroimage {
+    height: 80vh;
+    background-image: url("../images/chrissyraulwide.jpg");
+    background-position: center;
+    background-size: contain, cover;
+  }
+
+  /* services text size*/
+  .sertext,
+  p {
+    font-size: 2rem;
+  }
+
+  .sermargin {
+    font-size: 3rem;
+  }
+
   .upoverlay {
     height: 18%;
   }
 
+  /* review card size */
   .cardcenteredtext p {
     font-size: 2.5rem;
   }
