@@ -177,6 +177,36 @@ The scroll text animations need to work to ensure the extra infomation will appa
 
 ### Mobile First and Media Queries
 
+The webdite was designed from a mobile first perspective, Ive trued to keep media queries to a minium, but these were necessary to change the size of the paragraph's text.
+
+With outout any media queries the following problems resulted when moving to bigger screens.
+
+![Screen size Testing](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/screensizetests.jpg)
+
+Typical issue was the heading not being in view.
+![Screen Pic chevron not working](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/screenshoots6.jpg)
+
+Another issue was the text being too big for the dev.
+![Screen Pic text wrong size](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/screenshotp30.jpg)
+
+Once the media queries were deployed they worked well.
+
+### Browsers Tested
+
+The following browsers were tested and all teh features deployed worked.
+
+- Chrome
+
+- Safari
+
+- Microsofe Edge
+
+- Mozilla Fire Fox
+
+- Samsung's own browser
+
+- Duck Duck Go
+
 # Deployment
 
 ## Deployment via Github
