@@ -25,6 +25,8 @@ Once the new normal is establish, the new online presence should prove a vital t
 - [Features](#Features)
 - [Technologies Used](#Technologies-Used)
 - [Testing](#Testing)
+  - [Code Testing](#Code-Testing)
+  - [Website Testing](#Website-Testing)
 - [Deployment](#Deployment)
 - [Credits](#Credits)
 
@@ -189,7 +191,7 @@ Typical issue was the heading not being in view.
 Another issue was the text being too big for the dev.
 ![Screen Pic text wrong size](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/screenshotp30.jpg)
 
-Once the media queries were deployed they worked well.
+Once the media queries were deployed the issues noted above were resolved.
 
 ### Browsers Tested
 

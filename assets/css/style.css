@@ -83,10 +83,17 @@ h2 {
 .buttonpos {
   font-size: 1.5rem;
   position: absolute;
-  width: 10rem;
+  width: 12rem;
   left: 60%;
   background-color: rgba(0, 0, 0, 0.5);
   border: none;
+}
+
+.buttonpos i {
+  color: white;
+  font-size: medium;
+  position: center;
+  margin-right: 1rem;
 }
 
 .buttonposctm {
@@ -182,6 +189,19 @@ td {
 
 .mapnoborder {
   border: 0px;
+}
+
+.buttoncon {
+  font-size: 1.5rem;
+  position: center;
+  width: 10rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+}
+
+.contactdet i {
+  color: #2b2b2b;
+  margin-right: 1rem;
 }
 
 /*services styling*/
@@ -285,8 +305,7 @@ li {
   display: inline;
 }
 
-.social-networks,
-i {
+.social-networks i {
   font-size: 2.5rem;
   margin-left: 10%;
   margin-right: 10%;
