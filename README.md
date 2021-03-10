@@ -60,7 +60,7 @@ Once the new normal is establish, the new online presence should prove a vital t
 
 ### Colour Scheme
 
-- I opted for a black and white, the picture of the dogs would add the needed colour. THe Black was not pure black, but a very dark gray, a pure black can be too harsh.
+- I opted for a black and white as the main colours. Green was picked as the accent colour, mainly becuase the pistures of the dogs have a of green in them. The Black was not pure black, but a very dark gray, as pure black can be too harsh. 
 
 ## Typography
 
@@ -83,7 +83,7 @@ Destop Page<br>
 
 ## Existing Features
 
-- Navigation menu is fixed so always remains ontop for easy navigation.
+- Navigation menu is fixed so always remains on top for easy navigation.
 - Footer is also fixed meaning the contact is sandwhiched between the nav bar and header.
 - Three call to actions, the use can call, email or fill out the contact us form from buttons on the hero image.
 - About section: contains responsive element, both cert and liability policy disple more info when you hover on them.
