@@ -60,7 +60,7 @@ Once the new normal is establish, the new online presence should prove a vital t
 
 ### Colour Scheme
 
-- I opted for a black and white as the main colours. Green was picked as the accent colour, mainly becuase the pistures of the dogs have a of green in them. The Black was not pure black, but a very dark gray, as pure black can be too harsh. 
+- I opted for a black and white as the main colours. Green was picked as the accent colour, mainly becuase the pistures of the dogs have a lot of green in them. The Black was not pure black, but a very dark gray, as pure black can be too harsh.
 
 ## Typography
 
