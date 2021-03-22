@@ -4,7 +4,9 @@
 
 ![responsive image](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Multidevicespic.png)
 
-[link to live project](https://github.com/whatnote/MileStoneOneDogServices)
+[Link to live project](https://github.com/whatnote/MileStoneOneDogServices)
+
+[Link to live website](https://whatnote.github.io/Chrissy-Clyde-Dog-Services/)
 
 ## Project Summary
 
@@ -212,6 +214,8 @@ The following browsers were tested and all teh features deployed worked.
 # Deployment
 
 ## Deployment via Github
+
+[Link to live website](https://whatnote.github.io/Chrissy-Clyde-Dog-Services/)
 
 Navigate to the GitHub [Repository](https://github.com/whatnote/MileStoneOneDogServices)
 
