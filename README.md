@@ -259,7 +259,9 @@ A clone of the project will be created locally on your machine.
 
 ## Media
 
-- Most of the images of the dogs are my own apart from Remy the dog, that was taken by [icephotography](https://www.icephotography.co.uk/)
+- the clipart for the services were purchased from [gograph.com](https://www.gograph.com/)
+
+- Most of the pictures of the dogs are my own apart from Remy the dog, that was taken by [icephotography](https://www.icephotography.co.uk/)
 
 - the silluettes of the dogs are free to use pics from
 
