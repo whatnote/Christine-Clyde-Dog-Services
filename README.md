@@ -4,15 +4,15 @@
 
 ![responsive image](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Multidevicespic.png)
 
-[Link to live project](https://github.com/whatnote/MileStoneOneDogServices)
+[Link to live project](https://github.com/whatnote/Christine-Clyde-Dog-Services)
 
-[Link to live website](https://whatnote.github.io/Chrissy-Clyde-Dog-Services/)
+[Link to live website](https://whatnote.github.io/Christine-Clyde-Dog-Services/)
 
 ## Project Summary
 
-This project is my Milestone 1 I’ve decided to couple it with a new site for my Partner's dog walking business. Due to covid-19, the world has changed; home working has meant the need for dog walking isn't what it once was, but there has been a steep increase in people and families getting dogs; especially puppies.
+This project is my Milestone 1. I’ve decided to couple it with a new site for my Partner's dog walking business. Due to covid-19, the world has changed; home working has meant the need for dog walking isn't what it once was, but there has been a steep increase in people and families getting dogs; especially puppies.
 
-With this my partner, Chrissy, has taken to opportunity to retrain and up-skill her dog walking business and extend it to include puppy and dog training. Chrissy has completed one diploma, and to is now well underway in her dog behavioural diploma.
+With this my partner, Chrissy, has taken to opportunity to retrain and up-skill her dog walking business and extend it to include puppy and dog training. Chrisy has started her level three diploma in Canine Behaviour And Animal Welfare.
 
 Once the new normal is establish, the new online presence should prove a vital tool in finding new clients.
 
@@ -95,7 +95,7 @@ Destop Page<br>
 
 ## Features left to Implement
 
-- dog walking licence
+- qualifications
 - dbs section
 
 both to be added to the about section.
@@ -263,9 +263,7 @@ A clone of the project will be created locally on your machine.
 
 - Most of the pictures of the dogs are my own apart from Remy the dog, that was taken by [icephotography](https://www.icephotography.co.uk/)
 
-- the silluettes of the dogs are free to use pics from
-
-- documents used are either the geniun article of dummy versions if the orginal contains too much infoamtion. Eg the Puiblic Liability policy doesn't provide a PL certificate in the same way an Employer;s Liability policy does. The PL schedule details everything, including the premium paid and staff discount obtained. So I made the decision to provide a dummy certificate.
+- documents used are either the geniun article of dummy versions if the orginal contains too much information. Eg the Public Liability policy doesn't provide a PL certificate in the same way an Employer's Liability policy does. The PL schedule details everything, including the premium paid and staff discount obtained. So I made the decision to provide a dummy certificate.
 
 ## Acknowledgements
 
