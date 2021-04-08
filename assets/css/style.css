@@ -92,7 +92,6 @@ h2 {
 .buttonpos i {
   color: white;
   font-size: medium;
-  position: center;
   margin-right: 1rem;
 }
 
@@ -193,7 +192,6 @@ td {
 
 .buttoncon {
   font-size: 1.5rem;
-  position: center;
   width: 10rem;
   background-color: rgba(0, 0, 0, 0.5);
   border: none;
