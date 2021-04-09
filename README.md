@@ -4,6 +4,8 @@
 
 ![responsive image](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Multidevicespic.png)
 
+[Link to live project](https://github.com/whatnote/Christine-Clyde-Dog-Services)
+
 [Link to live website](https://whatnote.github.io/Christine-Clyde-Dog-Services/)
 
 ## Project Summary
@@ -12,7 +14,7 @@ This project is my Milestone 1. I’ve decided to couple it with a new site for 
 
 With this my partner, Chrissy, has taken to opportunity to retrain and up-skill her dog walking business and extend it to include puppy and dog training. Chrisy has started her level three diploma in Canine Behaviour And Animal Welfare.
 
-Once the new normal is establish, the new online presence should prove a vital tool in finding new clients.
+Once the new normal is established, the new online presence should prove a vital tool in finding new clients.
 
 ## Contents
 
@@ -48,12 +50,12 @@ Once the new normal is establish, the new online presence should prove a vital t
 - See opening times.
 - See costs for walks and dog training.
 - See current client reviews.
+- See current qualifications.
 - See information about insurance.
-- See information about qualifications.
-- See information about dog walking licence
-- See information about DBS check
-- have a contact us form
-- have a an email option
+- See information about dog walking licence.
+- See information about DBS check.
+- have a contact us form.
+- have a an email option.
 - have a mobile number displayed.
 
 ## Design
@@ -114,6 +116,26 @@ both to be added to the about section.
 - [W3C CSS validator](https://jigsaw.w3.org/css-validator/) - Used to test the CSS code.
 
 # Testing
+
+## User Story Testing
+
+- Will want to be able to see the services available. - **Website has a services tab in the nav bar and section in the site**
+
+- See opening times. **opening time is detailed in the contact us section**
+
+- See costs for walks and dog training.**cost for walks is details the walks card in teh servcies section. Dog training costs are diffifult to quantiy with the space avabilable.**
+
+- See current client reviews.**Client reivews are appaer when you click on the dog pictures**
+
+- See information about insurance **The about me section contains infomation about this**
+
+- See information about dog walking licence. **The about me section contains infomation about this**
+
+- have a contact us form. **contact form is available on teh hero image and also in the contact section**
+
+- have a an email option. **email feature is available in the hero image section and also contact section**
+
+- have a mobile number displayed. **mobile number is available in the hero section and also the contact section**
 
 ## Code Testing
 
@@ -210,6 +232,18 @@ The following browsers were tested and all teh features deployed worked.
 - Duck Duck Go
 
 # Deployment
+
+## Git and Git Hub
+
+To begin my project I set up a repoistory in GitHub.
+
+**git init** was the initial command I used in the terminal to initialise the git repository
+
+**git add .** was then used to add the latest small change in my code to the staging area.
+
+**git commit -m'message'** was then used immediatley after "git add ." to note the change in the staging area .
+
+**git push** was the final command used to load the local commit to the main repository.
 
 ## Deployment via Github
 
