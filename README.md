@@ -4,8 +4,6 @@
 
 ![responsive image](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Multidevicespic.png)
 
-[Link to live project](https://github.com/whatnote/Christine-Clyde-Dog-Services)
-
 [Link to live website](https://whatnote.github.io/Christine-Clyde-Dog-Services/)
 
 ## Project Summary
