@@ -29,7 +29,7 @@ Once the new normal is established, the new online presence should prove a vital
 - [Testing](#Testing)
   - [User Stories Testing](#User-Stories)
   - [Code Testing](#Code-Testing)
-  - [Website Testing](#Website-Testing)
+  - [Website Testing](#User-Story-Testing)
 - [Deployment](#Deployment)
 - [Credits](#Credits)
 
@@ -39,7 +39,7 @@ Once the new normal is established, the new online presence should prove a vital
 
 ## Target Audience:
 
-- Letting existing client, both old and current, of Chrissy's skill set.
+- Letting existing clients, both former and current, know of Chrissy's new skill set.
 - People with new puppies who require training.
 - People with new dogs/ dogs who require training.
 - People with new puppies who require walking.
