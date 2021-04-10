@@ -27,7 +27,7 @@ Once the new normal is established, the new online presence should prove a vital
 - [Features](#Features)
 - [Technologies Used](#Technologies-Used)
 - [Testing](#Testing)
-  - [User Stories Testing](#User-Stories-Testing)
+  - [User Stories Testing](#User-Story-Testing)
   - [Code Testing](#Code-Testing)
   - [Website Testing](#Website-Testing)
 - [Deployment](#Deployment)
