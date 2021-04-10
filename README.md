@@ -12,7 +12,7 @@
 
 This project is my Milestone 1. I’ve decided to couple it with a new site for my Partner's dog walking business. Due to covid-19, the world has changed; home working has meant the need for dog walking isn't what it once was, but there has been a steep increase in people and families getting dogs; especially puppies.
 
-With this my partner, Chrissy, has taken to opportunity to retrain and up-skill her dog walking business and extend it to include puppy and dog training. Chrisy has started her level three diploma in Canine Behaviour And Animal Welfare.
+With this my partner, Chrissy, has taken to opportunity to retrain and up-skill her dog walking business and extend it to include puppy and dog training. Chrissy has started her level three diploma in Canine Behaviour And Animal Welfare.
 
 Once the new normal is established, the new online presence should prove a vital tool in finding new clients.
 
@@ -27,6 +27,7 @@ Once the new normal is established, the new online presence should prove a vital
 - [Features](#Features)
 - [Technologies Used](#Technologies-Used)
 - [Testing](#Testing)
+  - [User Stories Testing](#User-Stories)
   - [Code Testing](#Code-Testing)
   - [Website Testing](#Website-Testing)
 - [Deployment](#Deployment)
@@ -62,7 +63,7 @@ Once the new normal is established, the new online presence should prove a vital
 
 ### Colour Scheme
 
-- I opted for a black and white as the main colours. Green was picked as the accent colour, mainly becuase the pistures of the dogs have a lot of green in them. The Black was not pure black, but a very dark gray, as pure black can be too harsh.
+- I opted for a black and white as the main colours. Green was picked as the accent colour, mainly because the pictures of the dogs have a lot of green in them. The Black was not pure black, but a very dark grey, as pure black can be too harsh.
 
 ## Typography
 
@@ -78,15 +79,15 @@ Destop Page<br>
 
 ## Differences from the Wireframe.
 
-- Serivces :
-  The serivces were initially noted as Dog Walks, Doggy Day care and Dog Boarding. But As these services naturally flow from Dog walking the daycare and boarding were dropped, and instead the decision was made to showcase the Training options; Dog Trains and Puppy Training.
+- Services :
+  The services were initially noted as Dog Walks, Doggy Day care and Dog Boarding. But As these services naturally flow from Dog walking the day-care and boarding were dropped, and instead the decision was made to showcase the Training options; Dog Trains and Puppy Training.
 
 # Features
 
 ## Existing Features
 
 - Navigation menu is fixed so always remains on top for easy navigation.
-- Footer is also fixed meaning the contact is sandwhiched between the nav bar and header.
+- Footer is also fixed meaning the contact is sandwiched between the nav bar and header.
 - Three call to actions, the use can call, email or fill out the contact us form from buttons on the hero image.
 - About section: contains responsive element, both cert and liability policy disple more info when you hover on them.
 - Contact section: has a number and email that will call email when clicked on. Map is an Iframe of location of business.
@@ -95,22 +96,22 @@ Destop Page<br>
 
 ## Features left to Implement
 
-- qualifications
-- dbs section
+- Qualifications
+- DBS section
 
-both to be added to the about section.
+both to be added in future updates of the about section.
 
 # Technologies Used
 
-- [Html](https://www.w3schools.com/html/) - Hyper Text Markup Language, used for creating the website.
-- [Css](https://www.w3schools.com/css/) - Cascading Style Sheet, used for styling the website.
+- [HTML](https://www.w3schools.com/html/) - Hyper Text Markup Language, used for creating the website.
+- [CSS](https://www.w3schools.com/css/) - Cascading Style Sheet, used for styling the website.
 - [Bootstrap](https://getbootstrap.com/) - Bootstrap grid system, navigation bar.
 - [Font Awesome](https://fontawesome.com/) - Font awesome Icons are used for the Social media links contained in the Footer section of the website.
 - [Google Fonts](https://fonts.google.com/) - Google fonts are used in the project to import the Yantramanav and Open Sans.
 - [Balsamiq](https://balsamiq.com/) – Used for creating the wireframes.
 - [Git](https://git-scm.com/) - Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
-- [GitHub](https://github.com/) - GithHub is the hosting site used to store the source code.
-- [Gitpod](https://www.gitpod.io/) - Development environment where the site was built.
+- [GitHub](https://github.com/) - GitHub is the hosting site used to store the source code.
+- [GitPod](https://www.gitpod.io/) - Development environment where the site was built.
 - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) - Using inspect and also Lighthouse to test the site.
 - [W3C HTML validator](https://validator.w3.org/) - Used to test the html code.
 - [W3C CSS validator](https://jigsaw.w3.org/css-validator/) - Used to test the CSS code.
@@ -119,23 +120,23 @@ both to be added to the about section.
 
 ## User Story Testing
 
-- Will want to be able to see the services available. - **Website has a services tab in the nav bar and section in the site**
+- Will want to be able to see the services available. - **Website has a services tab in the nav bar and section in the site.**
 
-- See opening times. **opening time is detailed in the contact us section**
+- See opening times. **Opening time is detailed in the contact us section.**
 
-- See costs for walks and dog training.**cost for walks is details the walks card in teh servcies section. Dog training costs are diffifult to quantiy with the space avabilable.**
+- See costs for walks and dog training.**cost for walks is details the walks card in the services section. Dog training costs are difficult to quantify with the space available.**
 
-- See current client reviews.**Client reivews are appaer when you click on the dog pictures**
+- See current client reviews. **Client reviews are appearing when you click on the dog picture.**
 
-- See information about insurance **The about me section contains infomation about this**
+- See information about insurance **The about me section contains information about PL insurance.**
 
-- See information about dog walking licence. **The about me section contains infomation about this**
+- See information about dog walking licence. **The about me section contains information about the dog licence.**
 
-- have a contact us form. **contact form is available on teh hero image and also in the contact section**
+- have a contact us form. **contact form is available on the hero image and also in the contact section.**
 
-- have a an email option. **email feature is available in the hero image section and also contact section**
+- have an email option. **email feature is available in the hero image section and also contact section.**
 
-- have a mobile number displayed. **mobile number is available in the hero section and also the contact section**
+- have a mobile number displayed. **mobile number is available in the hero section and also the contact section.**
 
 ## Code Testing
 
@@ -145,7 +146,7 @@ I began testing my html, using [W3C HTML validator](https://validator.w3.org/), 
 
 ![HTML Testing 26 error](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmltest26error.jpg)<br>
 
-The most numerous error was \ being used instead or // for the img src links, this is note worth as I was pulling the relative file path via the right click from github ide. So worth noting this is not the necessary the best way to do this.
+The most numerous error was \ being used instead or // for the img src links, this is note worthy as I was pulling the relative file path via the right click from GitHub IDE. So worth noting this is not the necessary the best way to do this.
 
 Another error were styling items on the google iframe element, I moved these to the CSS file and that fixed those errors.
 
@@ -155,7 +156,7 @@ The last two errors were:
 
 The last two errors to resolve was having and a tag and a child of the button class, I struggled to find a solution wanting to have a button to ring a number or send an email, and when I experimented with the a element in the button element, and it worked I was very pleased, but just because it works doesn't mean it’s a good idea.
 
-The Fix was very esay, when I worked it out, simply keep the styling from the button add the class to the a element, delete the button element. No Errors show.
+The Fix was very easy, when I worked it out, simply keep the styling from the button add the class to the a element, delete the button element. No Errors show.
 
 ![The last two errors](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/htmlnoerrors.jpg)<br>
 
@@ -196,14 +197,14 @@ The footer links do take you away from the site, they also work as they should.
 
 #### Text scroll Animations
 
-The scroll text animations need to work to ensure the extra infomation will appaer the below confrim they do.
+The scroll text animations need to work to ensure the extra information will appear the below confirm they do. 
 ![Text Scroll Animations](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/textscrolls.jpg)
 
 ### Mobile First and Media Queries
 
-The webdite was designed from a mobile first perspective, Ive trued to keep media queries to a minium, but these were necessary to change the size of the paragraph's text.
+The website was designed from a mobile first perspective, I've tried to keep media queries to a minimum, but these were necessary to change the size of the paragraph's text.
 
-With outout any media queries the following problems resulted when moving to bigger screens.
+Without any media queries the following problems resulted when viewed on bigger screens.
 
 ![Screen size Testing](https://github.com/whatnote/MileStoneOneDogServices/blob/master/assets/images/Testing/screensizetests.jpg)
 
@@ -217,13 +218,13 @@ Once the media queries were deployed the issues noted above were resolved.
 
 ### Browsers Tested
 
-The following browsers were tested and all teh features deployed worked.
+The following browsers were tested and all the features deployed worked.
 
 - Chrome
 
 - Safari
 
-- Microsofe Edge
+- Microsoft Edge
 
 - Mozilla Fire Fox
 
@@ -233,19 +234,19 @@ The following browsers were tested and all teh features deployed worked.
 
 # Deployment
 
-## Git and Git Hub
+## Git and GitHub
 
-To begin my project I set up a repoistory in GitHub.
+To begin the project a repository was set up in GitHub.
 
-**git init** was the initial command I used in the terminal to initialise the git repository
+**git init** was the initial command used in the terminal to initialise the git repository.
 
-**git add .** was then used to add the latest small change in my code to the staging area.
+**git add .** was then used to add the latest small change in the code to the staging area.
 
-**git commit -m'message'** was then used immediatley after "git add ." to note the change in the staging area .
+**git commit -m'message'** was then used immediately after "git add ." to note the change in the staging area.
 
 **git push** was the final command used to load the local commit to the main repository.
 
-## Deployment via Github
+## Deployment via GitHub
 
 [Link to live website](https://whatnote.github.io/Chrissy-Clyde-Dog-Services/)
 
@@ -267,13 +268,14 @@ Navigate to the GitHub [Repository](https://github.com/whatnote/MileStoneOneDogS
 
 Click the Code drop down menu.
 
-Click the clipboard icon to copy the url provided
+Click the clipboard icon to copy the URL provided
 
-Open your developement editor of choice and open a terminal window in a directory of your choice.
+Open your preferred development editor the open a terminal window in a directory you like.
 
-Use "git clone" and paste the copied url after it.
+Use "git clone" and paste the copied URL after it.
 
 A clone of the project will be created locally on your machine.
+
 
 # Credits
 
@@ -295,10 +297,10 @@ A clone of the project will be created locally on your machine.
 
 - Most of the pictures of the dogs are my own apart from Remy the dog, that was taken by [icephotography](https://www.icephotography.co.uk/)
 
-- documents used are either the geniun article of dummy versions if the orginal contains too much information. Eg the Public Liability policy doesn't provide a PL certificate in the same way an Employer's Liability policy does. The PL schedule details everything, including the premium paid and staff discount obtained. So I made the decision to provide a dummy certificate.
+- •	Documents used are either the genuine article or dummy versions. If the original contains too much information, e.g. the Public Liability policy doesn't provide a PL certificate in the same way an Employer's Liability policy does. The PL schedule details everything, including the premium paid and staff discount obtained. So I made the decision to provide a dummy certificate.
 
 ## Acknowledgements
 
 - I'd like to thank my mentor Spencer Barriball for his patience and guidance throughout my project.
 
-- I'd also like to think my Partner Chrissy for putting up with the long nights infont of the computer.
+- I'd also like to think my Partner Chrissy for putting up with the long nights in font of the computer.
